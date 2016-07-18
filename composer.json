@@ -1,10 +1,9 @@
 {
-    "name": "jeremykendall/php-domain-parser",
+    "name": "oxigenka/php-domain-parser",
     "description": "Public Suffix List based URL parsing implemented in PHP.",
-    "homepage": "https://github.com/jeremykendall/php-domain-parser",
+    "homepage": "https://github.com/oxigenka/php-domain-parser",
     "support": {
-        "issues": "https://github.com/jeremykendall/php-domain-parser/issues",
-        "source": "https://github.com/jeremykendall/php-domain-parser"
+        "source": "https://github.com/oxigenka/php-domain-parser"
     },
     "license": "MIT",
     "authors": [
